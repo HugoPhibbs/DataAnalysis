@@ -1,2 +1,2 @@
 # DataAnalysis
-Project Work for Freecodecamp's Data Analysis with python course
+Project Work for Freecodecamp's Data Analysis with Python course
